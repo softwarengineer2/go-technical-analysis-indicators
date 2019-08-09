@@ -1,4 +1,4 @@
-# gobot
+# go-technical-analysis-indicators
 
 GoLang implementation of common technical analysis indicators
 
